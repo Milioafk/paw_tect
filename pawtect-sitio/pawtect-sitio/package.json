@@ -1,2 +1,17 @@
-{ "name": "pawtect-sitio", "private": true, "type": "module",
-  "dependencies": { "@neondatabase/serverless": "^1.0.0" } }
+{
+  "name": "pawtect-comunidad-escolar",
+  "private": true,
+  "type": "module",
+  "engines": {
+    "node": "24.x"
+  },
+  "dependencies": {
+    "@neondatabase/serverless": "1.0.2"
+  },
+  "scripts": {
+    "build:practice": "node practice/build.mjs"
+  },
+  "devDependencies": {
+    "esbuild": "0.28.0"
+  }
+}

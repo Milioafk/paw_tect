@@ -1,0 +1,1 @@
+ALTER TABLE `outbox` ADD `first_attempt` integer DEFAULT 0 NOT NULL;
