@@ -90,3 +90,31 @@ La navegación por intención toma como referencia YoungMinds. El acceso a unos 
 El rediseño recupera el último mensaje de la versión original de Pawtect. Con Impeccable revisamos el formulario en pantalla estrecha y el lenguaje de los controles. La documentación de Claude-Mem sirvió de referencia para mostrar primero el estado del caso y abrir el texto a petición del estudiante. Con la utilidad de Vercel Skills se comprobaron las huellas de los archivos de referencia empleados en la revisión.
 
 [Impeccable](https://github.com/pbakaus/impeccable) · [Claude-Mem](https://github.com/thedotmack/claude-mem) · [Vercel Skills](https://github.com/vercel-labs/skills)
+
+## Actualización de alcance — Pawtect Modelo A
+
+Pawtect es una plataforma enfocada en la protección estudiantil. Permite recibir reportes de situaciones de violencia que afectan a estudiantes, incluso cuando el presunto agresor sea otro estudiante, un docente, directivo o personal educativo.
+
+### Documentación operativa
+
+- [Protocolo operativo Modelo A](docs/PROTOCOLO_MODELO_A.md)
+- [Prevención, charlas y comunidad](docs/PREVENCION_Y_COMUNIDAD.md)
+- [Preguntas frecuentes](docs/PREGUNTAS_FRECUENTES.md)
+- [Roadmap y criterios de aceptación](docs/ROADMAP_MODELO_A.md)
+
+### Principios de funcionamiento
+
+1. Protección de la identidad y privacidad del estudiante.
+2. Recepción de reportes ocurridos dentro y fuera de la institución.
+3. Evaluación de riesgos y seguimiento de los casos.
+4. Derivación a las autoridades competentes.
+5. Acceso restringido a expedientes sensibles.
+6. Prevención mediante charlas y actividades educativas.
+
+### Límites del sistema
+
+Pawtect no sustituye a SíseVe ni a las autoridades competentes. No realiza investigaciones policiales o disciplinarias ni determina culpabilidad.
+
+Las denuncias laborales entre profesores no forman parte del Modelo A.
+
+**Funciones pendientes:** el anonimato pleno, la línea telefónica especial y la integración de WhatsApp requieren desarrollo y validación antes de anunciarse como servicios disponibles.
